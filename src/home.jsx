@@ -10,7 +10,7 @@ function Home() {
         <div className="home">
 
             <div className="img-holder">
-                <img className='main-img' src="/public/5.jpg" />
+                <img className='main-img' src="/5.jpg" />
             </div>
 
             <div className="name-holder">

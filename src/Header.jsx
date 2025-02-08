@@ -12,7 +12,7 @@ function Header() {
 
             <div className="name-container">
 
-            <img className="image" src="/public/2.jpg" />
+            <img className="image" src="/2.jpg" />
 
             <p className="head-name" onClick={handleLogoBtn}>Renganath Chokk</p>
 

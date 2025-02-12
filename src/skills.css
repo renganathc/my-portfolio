@@ -3,6 +3,7 @@
     flex-direction: column;
     margin-top: 70px;
     align-items: center;
+    margin-bottom: 100px;
 }
 
 .logo-holder {
@@ -15,15 +16,15 @@
     margin-bottom: 45px;
 }
 
-.icon {
-    height: 62px;
-    width: auto;
-}
-
 .headings {
     text-align: center;
     font-family: 'Poppins', sans-serif, Courier, monospace;
     font-size: 27px;
     font-weight: 500;
     margin-bottom: 17px;
+}
+
+.icon {
+    height: 62px;
+    width: auto;
 }

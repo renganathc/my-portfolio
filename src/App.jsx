@@ -1,11 +1,11 @@
-import { useState } from 'react'
-import Header from './Header'
-import Home from './home'
-import About from './about'
-import Skills from './skills'
+import Header from './Header.jsx'
+import Home from './home.jsx'
+import About from './about.jsx'
+import Skills from './skills.jsx'
+import Footer from './footer.jsx'
+import Projects from './projects.jsx'
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
     <>
@@ -13,9 +13,9 @@ function App() {
       <Home />
       <About />
       <Skills />
-      <Home />
-      <About />
-      <Home />
+      <Projects />
+      <p className="base-text">Built with ❤️ by Reganath</p>
+      <Footer />
     </>
   )
 }

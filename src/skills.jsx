@@ -20,7 +20,7 @@ function Skills() {
 
             </div>
 
-            <h1 className="headings" >Frameworks & Tools</h1>
+            <h1 className="headings" id="frameworks">Frameworks & Tools</h1>
 
             <div className="logo-holder" >
 

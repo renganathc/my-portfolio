@@ -4,7 +4,7 @@ import './header.css'
 function Header() {
 
     const handleLogoBtn = () => {
-        window.location.reload()
+        window.scrollTo({top:0, left:0, behavior: "smooth"});
     }
 
     return(
@@ -21,10 +21,9 @@ function Header() {
             <div className="button-holder">
 
                 <button className="head-btn" onClick={handleLogoBtn}>Home</button>
-                <button className="head-btn" >About</button>
-                <button className="head-btn" onClick={() => {alert("Under Construction :)")}}>Skills</button>
-                <button className="head-btn" onClick={() => {alert("Under Construction :)")}}>Projects</button>
-                <button className="head-btn" onClick={() => {alert("Under Construction :)")}}>About</button>
+                <button className="head-btn" onClick={() => {document.getElementById("about-head")?.scrollIntoView({behavior : "smooth", block : "center"});}}>About</button>
+                <button className="head-btn" onClick={() => {document.getElementById("frameworks")?.scrollIntoView({behavior : "smooth", block : "center"});}}>Skills</button>
+                <button className="head-btn" onClick={() => {document.getElementById("projects-head")?.scrollIntoView({behavior : "smooth", block : "center"});}}>Projects</button>
 
             </div>
 

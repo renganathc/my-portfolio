@@ -1,0 +1,13 @@
+.projects-con {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.und-cons {
+    margin-top: 20px;
+    width: 500px;
+    opacity: 85%;
+}

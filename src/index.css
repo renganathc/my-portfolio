@@ -17,4 +17,13 @@ body {
   min-height: 100vh;
   top: 0px;
   background: radial-gradient(circle at 50% 50%, rgb(0, 6, 16), rgb(0, 18, 54), rgb(0, 0, 0));
+  /* background: radial-gradient(circle at 50% 50%,  #b36b00, rgb(0, 0, 0)); */
+}
+
+.base-text {
+  text-align: center;
+  font-family: 'Poppins', sans-serif, Courier, monospace;
+  font-size: 21px;
+  margin-top: 160px;
+  margin-bottom: 44px;
 }

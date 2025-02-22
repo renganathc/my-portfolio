@@ -19,8 +19,8 @@ function Home() {
                 <p className="scroll-text">Web Developer</p>
 
                 <div className="button-grp">
-                    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"> <FontAwesomeIcon icon={faLinkedinIn} id="profiles" /> </a>
-                    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"> <FontAwesomeIcon icon={faGithub} id="profiles" /> </a>
+                    <a href="https://www.linkedin.com/in/renganathc/"> <FontAwesomeIcon icon={faLinkedinIn} id="profiles" /> </a>
+                    <a href="https://github.com/renganathc"> <FontAwesomeIcon icon={faGithub} id="profiles" /> </a>
                     <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"> <FontAwesomeIcon icon={faEnvelope} id="profiles" /> </a>
                 </div>
 

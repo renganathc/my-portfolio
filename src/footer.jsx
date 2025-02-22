@@ -9,8 +9,8 @@ function Footer() {
             <p className="foot-text">© 2025 Renganath Chokkalingam. All Rights Reserved</p>
 
             <div className="button-grp-foot">
-                <a href="https://youtube.com"> <FontAwesomeIcon icon={faLinkedinIn} id="footer-profiles" /> </a>
-                <a href="https://youtube.com"> <FontAwesomeIcon icon={faGithub} id="footer-profiles" /> </a>
+                <a href="https://www.linkedin.com/in/renganathc/"> <FontAwesomeIcon icon={faLinkedinIn} id="footer-profiles" /> </a>
+                <a href="https://github.com/renganathc"> <FontAwesomeIcon icon={faGithub} id="footer-profiles" /> </a>
                 <a href="https://youtube.com"> <FontAwesomeIcon icon={faEnvelope} id="footer-profiles" /> </a>
             </div>
 

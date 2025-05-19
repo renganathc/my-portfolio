@@ -16,7 +16,7 @@ function Home() {
             <div className="name-holder">
                 <p className="hello">Hi There 👋, This is</p>
                 <p className="name">Renganath Chokk</p>
-                <p className="scroll-text">Web Developer</p>
+                <p className="scroll-text">{"Fullstack Developer"}</p>
 
                 <div className="button-grp">
                     <a href="https://www.linkedin.com/in/renganathc/"> <FontAwesomeIcon icon={faLinkedinIn} id="profiles" /> </a>

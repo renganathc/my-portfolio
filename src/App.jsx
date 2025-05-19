@@ -14,7 +14,7 @@ function App() {
       <About />
       <Skills />
       <Projects />
-      <p className="base-text">Built with ❤️ by Reganath</p>
+      <p className="base-text">Built with ❤️ by Renganath</p>
       <Footer />
     </>
   )

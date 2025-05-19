@@ -11,3 +11,11 @@
     width: 500px;
     opacity: 85%;
 }
+
+.project-cards {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: center;
+}

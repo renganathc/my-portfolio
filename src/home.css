@@ -2,7 +2,7 @@
     position: relative;
     width: 421px;
     height: auto;
-    opacity: 87%;
+    opacity: 80%;
     border: solid #1d40af;
     /* border: solid #FF9800; */
     padding: 1px;
@@ -17,14 +17,13 @@
     animation-duration: 4s;
     animation-iteration-count: infinite;
     animation-timing-function: ease;
+    transform: rotate(5deg)
   }
 
   @keyframes photo {
 
     50% {
-      transform: translateY(4px);
-      transform: translatex(2px);
-      transform: scale(1.005);
+      transform: scale(1.005) rotate(5deg);
     }
     
   }

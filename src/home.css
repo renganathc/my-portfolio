@@ -166,6 +166,10 @@
 
 @media (max-width : 450px) {
 
+    .home {
+      height: calc(100vh - 117px);
+    }
+
     .hello {
       font-size: 19px;
     }

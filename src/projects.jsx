@@ -25,7 +25,7 @@ function Projects() {
 
     return (
         <div className="projects-con">
-            <h2 className="heading" id="projects-head">Projects</h2>
+            <h2 className="heading-about" id="projects-head">Projects</h2>
 
             <div className="project-cards">
 

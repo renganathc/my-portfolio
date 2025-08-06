@@ -15,8 +15,8 @@ function Skills() {
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" className="icon" />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" className="icon" />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" className="icon" />
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" className="icon" style={{height : "71px"}} />
-            <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" className="icon" style={{height : "57px"}} />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" className="icon" id="python" style={{height : "71px"}} />
+            <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" className="icon" id="kotlin" style={{height : "57px"}} />
 
             </div>
 

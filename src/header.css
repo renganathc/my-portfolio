@@ -10,8 +10,6 @@
   margin: 0px;
   padding: 0px;
   border-bottom: solid #282828 0.7px;
-  position: absolute;
-  top: 0px;
   position: sticky;
   top: 0px;
   backdrop-filter: blur(5px);
@@ -65,4 +63,12 @@
     height: 35px;
     width: 35px;
     border-radius: 50%;
+}
+
+@media (max-width: 665px) {
+
+  .button-holder {
+    display: none;
+  }
+
 }

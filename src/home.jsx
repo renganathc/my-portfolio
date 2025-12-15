@@ -20,7 +20,7 @@ function Home() {
                 <div className="button-grp">
                     <a href="https://www.linkedin.com/in/renganathc/"> <FontAwesomeIcon icon={faLinkedinIn} id="profiles" /> </a>
                     <a href="https://github.com/renganathc"> <FontAwesomeIcon icon={faGithub} id="profiles" /> </a>
-                    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"> <FontAwesomeIcon icon={faEnvelope} id="profiles" /> </a>
+                    <a href="mailto:rengnath1234@gmail.com"> <FontAwesomeIcon icon={faEnvelope} id="profiles" /> </a>
                 </div>
 
             </div>
